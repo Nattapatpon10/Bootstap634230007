@@ -8,9 +8,7 @@
 .navbar-dark .navbar-nav .nav-link {
   color: rgba(255, 0, 0, 0.938);
 }
-.navbar-dark .navbar-nav .nav-link.disabled {
-  color: rgba(255, 0, 0, 0.563);
-}
+
 .nav-link {
   font-size: 16px;
   font-family: kanit;
