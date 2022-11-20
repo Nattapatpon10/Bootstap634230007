@@ -1,0 +1,116 @@
+.parallax-header {
+  background-color: #011b35;
+
+  height: 100%;
+
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.parallax01 {
+  background-image: url("https://cdn.pixabay.com/photo/2020/02/06/15/59/forest-4824759_1280.png ");
+
+  height: 100%;
+
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.parallax02 {
+  background: url(/src/images/parallax02.jpg);
+  height: 100%;
+
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.parallax03 {
+  background-image: url(/src/images/parallax03.jpg);
+
+  height: 100%;
+
+  position: relative;
+
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.parallax-title {
+  height: auto;
+  background-color: #011b35;
+  font-size: 40px;
+  color: white;
+  text-align: center;
+}
+body,
+html {
+  height: 100%;
+  background-color: #011b35;
+}
+.caption-header {
+  position: absolute;
+  left: 0;
+  top: 25%;
+  width: 100%;
+  text-align: center;
+
+  font-size: 40px;
+}
+.caption-header span.border {
+  background-color: #011b35;
+  color: #fff;
+  padding: 9px;
+  font-size: 25px;
+  letter-spacing: 10px;
+}
+.caption-title {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+
+  font-size: 40px;
+}
+.caption-title span.border {
+  background-color: #011b35;
+  color: #fff;
+  padding: 9px;
+  font-size: 25px;
+  letter-spacing: 10px;
+}
+.ENTER-SITE a {
+  color: rgb(255, 255, 255);
+}
+.ENTER-SITE a:link {
+  text-decoration: none;
+}
+.ENTER-SITE a:hover {
+  color: #0080ff;
+}
+.ENTER-SITE {
+  font-family: "kanit";
+  text-align: center;
+  font-size: 40px;
+  color: white;
+}
+body {
+  opacity: 1;
+  animation-name: fadeInOpacity;
+  animation-iteration-count: 1;
+  animation-timing-function: ease-in;
+  animation-duration: 0.3s;
+}
+
+@keyframes fadeInOpacity {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
