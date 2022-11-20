@@ -20,7 +20,7 @@
 }
 .parallax02 {
   /* background: url(/src/images/parallax02.jpg); */
-  background: url("https://scontent.fkdt3-1.fna.fbcdn.net/v/t1.15752-9/313830591_3258469914413235_7374523948566591099_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeGBKR6Gb0SQGmmngEdasjUtAiXzwKGhVcACJfPAoaFVwMhBySz5TRueQSWRFu6h_amoa-Yk9YilKExxEE4L9npl&_nc_ohc=ix1Pu_oUzTgAX9zCtph&_nc_ht=scontent.fkdt3-1.fna&oh=03_AdQV4IGddvMBuTrO2fecthxVFh1I0pI7DbDM0ngA2fI4tQ&oe=63A22B35");
+  background: url("https://raw.githubusercontent.com/Nattapatpon10/Bootstap634230007/main/src/images/parallax02.jpg");
   height: 100%;
 
   background-attachment: fixed;
@@ -30,7 +30,7 @@
 }
 .parallax03 {
   /* background-image: url(/src/images/parallax03.jpg); */
-  background-image: url("https://scontent.fkdt3-1.fna.fbcdn.net/v/t1.15752-9/311075724_6349106191774865_5961194563715414491_n.jpg?stp=dst-jpg_s2048x2048&_nc_cat=102&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeHOlrbkbbdBijj2nL021OUlPRW_iWZ6JLw9Fb-JZnokvJUB-sJXUa2ImdkpnWChCufh5KCg-8xYwVxwxyWTLx-N&_nc_ohc=wm22pmk0hnwAX8b6rfz&_nc_ht=scontent.fkdt3-1.fna&oh=03_AdQbD2r9f7g4CAEBDQ-ksRiKijHZC2aflXuHSBybxlD3ug&oe=63A22671");
+  background-image: url("https://raw.githubusercontent.com/Nattapatpon10/Bootstap634230007/main/src/images/parallax03.jpg");
 
   height: 100%;
 
